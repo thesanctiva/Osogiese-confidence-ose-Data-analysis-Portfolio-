@@ -17,8 +17,8 @@ To support organizations with clear, actionable insights that empower growth and
 
 ## 📁 Projects
 
-### 1. [[📊 Excel Sales Dashboard](https://1drv.ms/x/c/ed71485e97342fc2/ER1lcXRFVchMu-ctRPDLun8BBEPPIvqkwMn4kEtV1vkUZg?e=4PbFIl)](./Excel-Sales-Dashboard)
-An interactive dashboard built with Excel, using PivotTables, slicers, and conditional formatting to visualize regional sales performance.
+### 1. [[📊 Excel Sales Dashboard](https://1drv.ms/x/c/ed71485e97342fc2/ER1lcXRFVchMu-ctRPDLun8BBEPPIvqkwMn4kEtV1vkUZg?e=4PbFIl)]
+An interactive dashboard built with Excel, using PivotTables, slicers, and conditional formatting to visualize state sales performance.
 
 **Skills used:** Excel, data cleaning, KPI analysis  
 **Tools:** PivotTables, Charts, Conditional Formatting, Slicers  
