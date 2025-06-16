@@ -19,7 +19,7 @@ To support organizations with clear, actionable insights that empower growth and
 
 🔗 [📥 Click here to view/download the Excel Dashboard](https://1drv.ms/x/c/ed71485e97342fc2/ER1lcXRFVchMu-ctRPDLun8BBEPPIvqkwMn4kEtV1vkUZg?e=4PbFIl)
 
-An interactive dashboard built with Excel, using PivotTables, slicers, and conditional formatting to visualize state sales performance.
+An interactive dashboard built with Excel, using PivotTables, slicers, charts, and conditional formatting to visualize state sales performance.
 
 **Skills used:** Excel, data cleaning, KPI analysis  
 **Tools:** PivotTables, Charts, Conditional Formatting, Slicers  
