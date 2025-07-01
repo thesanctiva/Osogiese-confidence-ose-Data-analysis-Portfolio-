@@ -80,6 +80,5 @@ This project helped reinforce key skills in:
 
 ## 🔗 Project Folder
 
-📁 [View This Project in Repository]([https://github.com/your-username/data-analytics-portfolio/tree/main/Amazon-Product-Review-Analysis](https://1drv.ms/x/c/ed71485e97342fc2/EZt0cyeBR4ZApogzgqD8E80BGkSManUjl0iyt5e5UNXugA?e=6EAMPB))
-
+📁 [[View This Project in Repository](https://1drv.ms/x/c/ed71485e97342fc2/EZt0cyeBR4ZApogzgqD8E80BGkSManUjl0iyt5e5UNXugA?e=6EAMPB)]
 🔙 [Back to Portfolio Home](https://github.com/your-username/data-analytics-portfolio)
