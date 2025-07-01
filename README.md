@@ -78,8 +78,8 @@ This project helped reinforce key skills in:
 
 ---
 
-## 📌 About the Case Study
+## 🔗 Project Folder
 
-This project simulates a real-world task at **RetailTech Insights**, an e-commerce analytics company. The scenario involved analyzing product and review data to support strategic decisions for Amazon sellers.
-**Status:** ✅ Completed
+📁 [View This Project in Repository]([https://github.com/your-username/data-analytics-portfolio/tree/main/Amazon-Product-Review-Analysis](https://1drv.ms/x/c/ed71485e97342fc2/EZt0cyeBR4ZApogzgqD8E80BGkSManUjl0iyt5e5UNXugA?e=6EAMPB))
 
+🔙 [Back to Portfolio Home](https://github.com/your-username/data-analytics-portfolio)
